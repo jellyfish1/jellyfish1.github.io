@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    <style>
+      * {
+        background-color: black;
+        color: white;
+      }
+      
+      ul {
+        color: rgba(10, 0, 211, 0.5)
+      }
+      
+      h1 {
+        color: white;
+        letter-spacing: 2em;
+        text-align: center;
+        border: 5px groove navy
+      }
+      
+      p {
+        color: white;
+        font-family: lobster;
+        font-size: 30px;
+        max-width: 4444;
+      }
+      
+      ol, ul {
+        font-family: Georgia, serif;
+      }
+    </style>
+  </head>
+
+<body>
+
+<h1>JELLYFISH</h1>
+
+<p>Jellyfish are  the chickens of the sea.</p>
+ 
+<ul>
+  <li>Jellyfish are like fish, but different</li>
+  <li>Jellyfish are not actually made of JELLY WHATTTTTTRTTTTTTTRUYTRFKYU?
+  <li>they live in the ocean i think????? IDK</li>
+  <li>JELLYFISH ARE COLORFUL</li>
+  <li>Jellyfish is spelled J-E-L-L-Y-B-E-L-L-I-E-S</li>
+  <li>MAOS is ruled by a jellyfish (why else would their jackets have a jellyfish on them??)</li>
+  </li>
+</ul>
+
+  <img src="http://finedininglovers.cdn.crosscast-system.com/BlogPost/xl_11832_jellyfish-finedininglovers-tp.jpg"/>
+</body>
+</html>
